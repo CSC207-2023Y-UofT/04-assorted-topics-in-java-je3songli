@@ -53,7 +53,7 @@ public class Trader<T> {
      */
 
     public void addToWishlist(T item) {
-        inventory.add(item);
+        wishlist.add(item);
     }
 
 
